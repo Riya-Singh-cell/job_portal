@@ -7,7 +7,6 @@ A production-ready, full-stack **MERN** (MongoDB · Express · React · Node.js)
 ![MongoDB](https://img.shields.io/badge/MongoDB-7+-47A248?logo=mongodb&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3+-06B6D4?logo=tailwindcss&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?logo=docker&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ---
 
@@ -24,7 +23,6 @@ A production-ready, full-stack **MERN** (MongoDB · Express · React · Node.js)
 - [Cloud Deployment](#-cloud-deployment)
 - [Screenshots](#-screenshots)
 - [Contributing](#-contributing)
-- [License](#-license)
 
 ---
 
