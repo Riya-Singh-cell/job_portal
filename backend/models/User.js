@@ -200,14 +200,7 @@ const userSchema = new mongoose.Schema(
   }
 );
 
-// ─── Indexes ────────────────────────────────────────────────────────────────────
-
-/**
- * Index on email for fast lookup during authentication and uniqueness checks.
- * The `unique: true` on the field already creates an index, but we define it
- * explicitly here for clarity and documentation purposes.
- */
-userSchema.index({ email: 1 });
+// Note: email index is created automatically by the unique:true field definition above.
 
 // ─── Middleware ─────────────────────────────────────────────────────────────────
 
